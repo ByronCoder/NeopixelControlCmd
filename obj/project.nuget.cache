@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TBQ9EO/kY/Z44Z+ABfRQwlrQWIlUNYxWO9rQGHZWHJwnQW5SLKUzIXBccZA8a8Enmcwjt/a1POaofPw1eqHDAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\byron\\NeopixelControlCmd\\NeopixelControlCmd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\byron\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

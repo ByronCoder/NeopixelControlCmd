@@ -1,0 +1,17 @@
+C:\Users\byron\NeopixelControlCmd\bin\Debug\net7.0\NeopixelControlCmd.exe
+C:\Users\byron\NeopixelControlCmd\bin\Debug\net7.0\NeopixelControlCmd.deps.json
+C:\Users\byron\NeopixelControlCmd\bin\Debug\net7.0\NeopixelControlCmd.runtimeconfig.json
+C:\Users\byron\NeopixelControlCmd\bin\Debug\net7.0\NeopixelControlCmd.dll
+C:\Users\byron\NeopixelControlCmd\bin\Debug\net7.0\NeopixelControlCmd.pdb
+C:\Users\byron\NeopixelControlCmd\obj\Debug\net7.0\NeopixelControlCmd.csproj.AssemblyReference.cache
+C:\Users\byron\NeopixelControlCmd\obj\Debug\net7.0\NeopixelControlCmd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byron\NeopixelControlCmd\obj\Debug\net7.0\NeopixelControlCmd.AssemblyInfoInputs.cache
+C:\Users\byron\NeopixelControlCmd\obj\Debug\net7.0\NeopixelControlCmd.AssemblyInfo.cs
+C:\Users\byron\NeopixelControlCmd\obj\Debug\net7.0\NeopixelControlCmd.csproj.CoreCompileInputs.cache
+C:\Users\byron\NeopixelControlCmd\obj\Debug\net7.0\NeopixelControlCmd.dll
+C:\Users\byron\NeopixelControlCmd\obj\Debug\net7.0\refint\NeopixelControlCmd.dll
+C:\Users\byron\NeopixelControlCmd\obj\Debug\net7.0\NeopixelControlCmd.pdb
+C:\Users\byron\NeopixelControlCmd\obj\Debug\net7.0\NeopixelControlCmd.genruntimeconfig.cache
+C:\Users\byron\NeopixelControlCmd\obj\Debug\net7.0\ref\NeopixelControlCmd.dll
+C:\Users\byron\NeopixelControlCmd\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\byron\NeopixelControlCmd\obj\Debug\net7.0\NeopixelControlCmd.csproj.CopyComplete
